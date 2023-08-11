@@ -1,5 +1,5 @@
-Este es un nuevo archivo
+Este ya no es un nuevo archivo
 
-Con el vamos a probar las funcionalidades de Git
+Con el vamos a probar las funcionalidades de Git y muchas cosas mas
 
-Todo este texto es inventado para mostrar un ejemplo de esta herramienta
+Todo este texto es inventado para mostrar un ejemplo de esta herramienta. Ahora lo acabamos de modificar
