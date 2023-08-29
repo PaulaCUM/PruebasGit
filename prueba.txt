@@ -1,9 +1,6 @@
-AGREGO UN TITULO AL TXT
+NUEVA PRUEBA
 
-Este ya no es un nuevo archivo
+Este es un nuevo texto para el archivo de prueba.
+Verificaremos el funcionamiento de Git realizando cambios en los archivos
 
-Con el vamos a probar las funcionalidades de Git y muchas cosas mas
-
-Todo este texto es inventado para mostrar un ejemplo de esta herramienta. Ahora lo acabamos de modificar
-
-Agregamos dos archivos nuevos para nuestro proyecto, un HTML y un CSS sencillos
+fin del cambio 29/Ago/2023 9:40am
