@@ -3,4 +3,4 @@ NUEVA PRUEBA
 Este es un nuevo texto para el archivo de prueba.
 Verificaremos el funcionamiento de Git realizando cambios en los archivos
 
-fin del cambio 29/Ago/2023 9:40am
+fin del cambio 29/Ago/2023 3:27pm
