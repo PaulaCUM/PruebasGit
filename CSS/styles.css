@@ -46,3 +46,10 @@ body {
     width: 30px;
     vertical-align: middle;
 }
+
+/* FOOTER */
+#footer {
+    background-color: lightgreen;
+    text-align: center;
+    padding: 0.5em;
+}
