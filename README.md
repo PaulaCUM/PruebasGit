@@ -1,4 +1,4 @@
-# PruebasGit
+# Pruebas con Git y GitHub :fa-github:
 
 > *En este proyecto inventamos una mini pagina web solo para probar las herramientas de git.*
 
