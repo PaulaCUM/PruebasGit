@@ -6,3 +6,5 @@ Verificaremos el funcionamiento de Git realizando cambios en los archivos
 fin del cambio 29/Ago/2023 3:27pm
 
 Master 1 - Prueba Rebase
+
+Master 2
