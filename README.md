@@ -8,6 +8,7 @@
 - Todo el entorno de trabajo y manejo de las herramientas de git las aprendemos a manejar a traves de la terminal de comandos, siendo esta la mejor herramienta para trabajar con git muy rapidamente, en lugar de usar ayudas graficas.
 - Como parte del curso se encuentra tambien la creacion de este README importante para la explicacion y comprension de cualquier proyecto.
 - Continuamos con el aprendizaje tanto de git y GitHub, realizando pruedas y cambios en este proyecto hasta obtener las mejores habilidades y buenas practicas para el desarrollo de futuros proyectos de desarrollo con su respectivo repositorio controlado por Git y respaldado de forma remota en GitHub.
+- Creado por Paula Useche en un curso de git y github.
 
 
 ## Para mas repositorios
