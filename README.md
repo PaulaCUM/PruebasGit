@@ -10,6 +10,7 @@
 - Continuamos con el aprendizaje tanto de git y GitHub, realizando pruedas y cambios en este proyecto hasta obtener las mejores habilidades y buenas practicas para el desarrollo de futuros proyectos de desarrollo con su respectivo repositorio controlado por Git y respaldado de forma remota en GitHub.
 - Creado por Paula Useche en un curso de git y github.
 - Tambien se relaizan ejemplos del uso de determinados comandos de git como "cherry-pick" a pesar de ser una mala practica, porque es importante conocerlos.
+- Creamos diferentes ramas para realizar pruebas respecto al manejo y manipulacion de cada una de ellas y sus respectivos commits y bifurcaciones con respecto a la rama master.
 
 
 ## Para mas repositorios
